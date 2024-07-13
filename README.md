@@ -1,6 +1,14 @@
 # Glucose
-
 Bienvenue sur le repo de Glucose, un projet qui propose une platforme web pour gérer les stages venant d'entreprises.
+
+Le lien du projet original est [ici](https://github.com/ProjetEQ3/Projet) et nous étions en équipe de 5.
+1. 2055619 - Moi
+2. SamuelGignac
+3. 2164584
+4. TheGoodStudentAgain
+5. ZakaGn
+
+freddy674727 n'a pas participé au projet.
 
 # Définition de Done
 
