@@ -72,7 +72,8 @@ function App(){
 
 export default App
 
-export const baseURL = "http://localhost:8080"
+// export const baseURL = "http://localhost:8080"
+export const baseURL = "https://glucoseapi.quixotic.date"
 
 export const axiosInstance = axios.create({
 	baseURL: baseURL,
