@@ -29,17 +29,17 @@ public class GlucoseApplication implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        managerRepository.save(
-                Manager.builder()
-                        .firstName("Daphnée")
-                        .lastName("Tessier")
-                        .email("buzzwares@gmail.com")
-                        .password(passwordEncoder.encode("Glucose123"))
-                        .matricule("0000001")
-                        .phoneNumber("123-456-7890")
-                        .department(Department._420B0)
-                        .build()
-        );
+//        managerRepository.save(
+//                Manager.builder()
+//                        .firstName("Daphnée")
+//                        .lastName("Tessier")
+//                        .email("buzzwares@gmail.com")
+//                        .password(passwordEncoder.encode("Glucose123"))
+//                        .matricule("0000001")
+//                        .phoneNumber("123-456-7890")
+//                        .department(Department._420B0)
+//                        .build()
+//        );
 //        managerRepository.saveAll(createManager());
     }
 
