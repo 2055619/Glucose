@@ -21,7 +21,7 @@ WORKDIR /app
 COPY --from=build /app/target/glucose-0.0.1-SNAPSHOT.jar glucose.jar
 
 # Expose the port your app runs on
-EXPOSE 8087
+EXPOSE 8086
 
 # Command to run the JAR file
 CMD ["java", "-jar", "glucose.jar"]
