@@ -1,3 +1,4 @@
+application-prod.properties
 # Ignore IDE files and directories
 .vscode/
 .idea/
